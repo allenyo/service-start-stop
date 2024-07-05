@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "service start-stop", "Global protect start-stop\service start-stop.csproj", "{7872AF3B-F4E4-40BB-A705-FDB16A081975}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7872AF3B-F4E4-40BB-A705-FDB16A081975}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7872AF3B-F4E4-40BB-A705-FDB16A081975}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7872AF3B-F4E4-40BB-A705-FDB16A081975}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7872AF3B-F4E4-40BB-A705-FDB16A081975}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7F17CD9-2F38-4431-BFDC-4772F264F2CC}
+	EndGlobalSection
+EndGlobal
